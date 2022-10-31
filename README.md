@@ -7,19 +7,19 @@ For this reason I can not share the code.
 ## Pictures
 
 ### Homepage view
-<img scr="./images/homepage.jpg">
+<img scr="images/homepage.jpg">
 
 ### Product page view
-<img scr="./images/ProductView.jpg">
+<img scr="images/ProductView.jpg">
 
 ### Admin add-category view
-<img scr="./images/add-category.jpg">
+<img scr="images/add-category.jpg">
 
 ### Admin dashboard view
-<img scr="./images/adminDashbaord.jpg">
+<img scr="images/adminDashbaord.jpg">
 
 ### Admin Product view
-<img scr="./images/adminProduct.jpg">
+<img scr="images/adminProduct.jpg">
 
 ### Admin category view
-<img scr="./images/categoryView.jpg">
+<img scr=".images/categoryView.jpg">
